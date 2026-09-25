@@ -1,3 +1,4 @@
 import math
 x=5
-print(2*x)
+z=2*x
+print('{0}'.format(z))
